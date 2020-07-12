@@ -1,0 +1,1447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布入間町1丁目店",
+        "address": "調布市入間町1-39-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5914376,
+          35.6535322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布入間町店",
+        "address": "調布市 入間町2-28-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5878477,
+          35.6504426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布野川大橋南店",
+        "address": "調布市入間町2-7-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5799886,
+          35.6483622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "サークルK 調布成城富士見橋店",
+        "address": "調布市入間町3-10-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5920825,
+          35.6470575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布インター南店",
+        "address": "調布市上石原1-30-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.531349,
+          35.6587126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソンストア100 西調布駅前店",
+        "address": "調布市上石原1-39-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.530609,
+          35.656922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 西調布駅前店",
+        "address": "調布市上石原2-33-2 NKビル1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5304411,
+          35.6567639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布上石原3丁目店",
+        "address": "調布市上石原3-10-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.527749,
+          35.6525045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 柴崎駅北店",
+        "address": "調布市菊野台1-19-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5670603,
+          35.6556885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソンストア100 柴崎駅南口店",
+        "address": "調布市菊野台2-23-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.567848,
+          35.653896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布菊野台2丁目店",
+        "address": "調布市菊野台2-42-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5664203,
+          35.6508879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 柴崎駅南口店",
+        "address": "調布市菊野台3-1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5675787,
+          35.654306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 京王布田駅前店",
+        "address": "調布市国領町1-3-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5473824,
+          35.6542433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布国領町１丁目店",
+        "address": "調布市国領町1-47-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5566805,
+          35.6525351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 国領二丁目店",
+        "address": "調布市国領町2-10-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5578618,
+          35.6513491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布国領町2丁目店",
+        "address": "調布市国領町2-18-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.559753,
+          35.652195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布国領町三丁目店",
+        "address": "調布市国領町3-10-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5593906,
+          35.6499594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 国領南店",
+        "address": "調布市国領町3-6-44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5603086,
+          35.6495309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "サンクス 調布品川通り店",
+        "address": "調布市国領町4-20-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5365384,
+          35.6457524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布国領町5丁目店",
+        "address": "調布市国領町5-48-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5552143,
+          35.6486585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布布田駅前店",
+        "address": "調布市国領町5-71-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5515242,
+          35.6495888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 国領店",
+        "address": "調布市国領町7-31-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.561046,
+          35.6452535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート スミダ国領店",
+        "address": "調布市国領町8-1-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.561666,
+          35.6466926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 秀栄国領八丁目店",
+        "address": "調布市国領町8-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5678966,
+          35.6485028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布国領八丁目店",
+        "address": "調布市国領町8-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5593906,
+          35.6499594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 電気通信大学前店",
+        "address": "調布市 小島町1-1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.540355,
+          35.6561396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布小島1丁目店",
+        "address": "調布市小島町1-29-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5405057,
+          35.6538599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布小島町店",
+        "address": "調布市小島町1-31-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5409628,
+          35.6531671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布駅小島町店",
+        "address": "調布市小島町1-36-16 グレーシア調布1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5429156,
+          35.652541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布駅南口店",
+        "address": "調布市小島町2-46-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5428602,
+          35.6508795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布小島町二丁目店",
+        "address": "調布市小島町2-48-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.542736,
+          35.652047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 京王多摩川駅前店",
+        "address": "調布市小島町3-34-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5365384,
+          35.6457524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布小島3丁目店",
+        "address": "調布市小島町3-68-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5414266,
+          35.6490204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布小島町三丁目店",
+        "address": "調布市小島町3-80-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5408729,
+          35.6468715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布佐須町五丁目店",
+        "address": "調布市 佐須町5-1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.557841,
+          35.6604346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布柴崎1丁目店",
+        "address": "調布市柴崎1-47-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5615881,
+          35.6586829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布上ノ原店",
+        "address": "調布市 柴崎2-39-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5656945,
+          35.6646285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布柴崎2丁目店",
+        "address": "調布市柴崎2-1-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5664327,
+          35.6589375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布インター店",
+        "address": "調布市下石原1-7-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5356584,
+          35.6579846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布下石原2丁目店",
+        "address": "調布市下石原2-46-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5352297,
+          35.6521459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 下石原2丁目店",
+        "address": "調布市下石原2-7-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5319702,
+          35.6485085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布下石原３丁目店",
+        "address": "調布市 下石原3-71-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5352146,
+          35.6479128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布仙川駅南店",
+        "address": "調布市仙川町1-15-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.585741,
+          35.6595222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布仙川1丁目店",
+        "address": "調布市仙川町1-23-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5885961,
+          35.6592375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布仙川町一丁目店",
+        "address": "調布市仙川町1-27-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5869821,
+          35.6620738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 仙川駅西店",
+        "address": "調布市仙川町1-7-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.583546,
+          35.6609289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布仙川店",
+        "address": "調布市仙川町3-2-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5838986,
+          35.6633557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布仙川店",
+        "address": "調布市仙川町3-3-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5834583,
+          35.6643791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 仙川駅前店",
+        "address": "調布市仙川町3-9-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5853134,
+          35.6626918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布染地2丁目店",
+        "address": "調布市染地2-3-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5512194,
+          35.6433282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布染地二丁目店",
+        "address": "調布市染地2-34-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5533459,
+          35.6384268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布染地店",
+        "address": "調布市染地2-39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.555214,
+          35.641222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布多摩川一丁目店",
+        "address": "調布市多摩川1-26-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5301517,
+          35.6513123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソンストア100 調布多摩川店",
+        "address": "調布市多摩川1-3-1 センチュリー調布"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.530609,
+          35.656922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布多摩川1丁目店",
+        "address": "調布市多摩川1-52-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5319702,
+          35.6485085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 京王多摩川店",
+        "address": "調布市多摩川4-10-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5337288,
+          35.6456847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 京王多摩川駅店",
+        "address": "調布市多摩川5-6-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5370873,
+          35.6445995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布多摩川店",
+        "address": "調布市多摩川7-7-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5385864,
+          35.643453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布ヶ丘１丁目店",
+        "address": "調布市調布ケ丘1-6-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5450045,
+          35.6552479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布ヶ丘2丁目店",
+        "address": "調布市調布ヶ丘2-37-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.551616,
+          35.655477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布ヶ丘3丁目店",
+        "address": "調布市調布ヶ丘3-43-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5471387,
+          35.6608207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布飛田給1丁目店",
+        "address": "調布市飛田給1-12-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5216509,
+          35.6623871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソンストア100 飛田給店",
+        "address": "調布市飛田給1-25-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.523127,
+          35.661278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "スリーエフ 飛田給店",
+        "address": "調布市飛田給1-25-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5231937,
+          35.6614588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン ＬＴＦ飛田給スタジアム通店",
+        "address": "調布市飛田給1-25‐6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5231937,
+          35.6614588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布飛田給駅北口店",
+        "address": "調布市飛田給1-41-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.523861,
+          35.66059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 飛田給駅南口店",
+        "address": "調布市飛田給2-18-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5225407,
+          35.6601772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布飛田給2丁目店",
+        "address": "調布市飛田給2-46-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5248647,
+          35.656872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 飛田給品川通り店",
+        "address": "調布市飛田給2-7-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5197258,
+          35.659176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布つつじヶ丘店",
+        "address": "調布市西つつじヶ丘2-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5723758,
+          35.6603004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 西つつじヶ丘三丁目店",
+        "address": "調布市西つつじケ丘3-25-41 新井ビル1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57314,
+          35.657506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン つつじヶ丘店",
+        "address": "調布市西つつじヶ丘3-30-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.573587,
+          35.6590198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン つつじヶ丘南口店",
+        "address": "調布市西つつじヶ丘4-12-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5754459,
+          35.6560851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布東つつじケ丘店",
+        "address": "調布市 東つつじヶ丘2-5-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5770802,
+          35.6568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布富士見2丁目店",
+        "address": "調布市富士見町2-14-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.542875,
+          35.659413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソンストア100 調布富士見町店",
+        "address": "調布市富士見町2-22-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.530609,
+          35.656922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布武蔵境通り店",
+        "address": "調布市富士見町2-9-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5401135,
+          35.6586387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布富士見町店",
+        "address": "調布市富士見町3-24-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5422561,
+          35.6641222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布天文台通り店",
+        "address": "調布市富士見町4-32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5357601,
+          35.668279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布駅北口",
+        "address": "調布市 布田1‐35‐2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5444642,
+          35.6540699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布駅北店",
+        "address": "調布市布田1-27-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5462189,
+          35.6536424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布駅北口店",
+        "address": "調布市布田1-44-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5454559,
+          35.6526348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 調布駅前店",
+        "address": "調布市布田1-44-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5452386,
+          35.651898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "スリーエフ 調布東口店",
+        "address": "調布市布田3-1-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.545467,
+          35.652079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布品川通り店",
+        "address": "調布市布田3-28-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.549373,
+          35.646962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布駅南口店",
+        "address": "調布市布田4-16-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5441332,
+          35.6507831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布布田四丁目店",
+        "address": "調布市布田4-2-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54464,
+          35.65155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布布田4丁目店",
+        "address": "調布市布田4-26-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5449858,
+          35.6489413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布布田五丁目店",
+        "address": "調布市布田5-25-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.54464,
+          35.65155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布緑ヶ丘店",
+        "address": "調布市緑ヶ丘2-57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5886257,
+          35.6659227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布若葉町３丁目店",
+        "address": "調布市 若葉町3-29-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5866217,
+          35.6554838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布若葉町店",
+        "address": "調布市若葉町3-8-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5825571,
+          35.651186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ローソン 調布深大寺北町一丁目店",
+        "address": "調布市深大寺北町1-2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.545467,
+          35.673441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 深大寺店",
+        "address": "調布市深大寺北町5-1-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5476446,
+          35.678401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 晃華学園前店",
+        "address": "調布市 深大寺東町2-6-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5611685,
+          35.6663752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 深大寺東町店",
+        "address": "調布市深大寺東町3-39-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.564429,
+          35.671116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布深大寺東5丁目店",
+        "address": "調布市深大寺東町5-9-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5583413,
+          35.672597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 野ヶ谷三鷹通り店",
+        "address": "調布市深大寺東町6-1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5547583,
+          35.6769688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 深大寺南町店",
+        "address": "調布市深大寺南町1-11-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5532681,
+          35.6626932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "サークルK 調布深大寺南店",
+        "address": "調布市深大寺南町5-57-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.557841,
+          35.6604346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ファミリーマート 調布深大寺元町店",
+        "address": "調布市深大寺元町2-3-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5494577,
+          35.662252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ミニストップ 神代植物公園前店",
+        "address": "調布市深大寺元町5-39-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.545056,
+          35.6724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "セブン‐イレブン 調布八雲台店",
+        "address": "調布市八雲台1-8-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5539842,
+          35.6530666
+        ]
+      }
+    }
+  ]
+}

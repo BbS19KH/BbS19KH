@@ -1,0 +1,523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ネッツトヨタ東京 調布店",
+        "address": "調布市飛田給1-34-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5241417,
+          35.6633734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ロイヤルホスト 味の素スタジアム店",
+        "address": "調布市西町376-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5255078,
+          35.6633664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "日産プリンス西東京販売 調布多摩川店",
+        "address": "調布市多摩川3-40-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5292857,
+          35.645975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カウボーイ家族 調布店",
+        "address": "調布市布田3-18-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5466649,
+          35.6474574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "モスバーガー 調布南口店",
+        "address": "調布市小島町2-56-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5430132,
+          35.648988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カラオケサーカス",
+        "address": "調布市小島町2-51-3 ロイヤルプラザ4F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.543274,
+          35.650603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "和民 調布南口店",
+        "address": "調布市布田4-16-1 アルテサーノ調布B1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.544232,
+          35.650696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ビッグエコー 調布南口店",
+        "address": "調布市布田4-2-4 シーエフ調布駅前ビル5F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.544221,
+          35.651049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カレーハウスCoCo壱番屋 京王調布駅北口店",
+        "address": "調布市小島町1-13-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5427326,
+          35.6536636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "吉野家 調布駅前店",
+        "address": "調布市布田1-37 清水ビル内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5442,
+          35.65292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カラオケシースター",
+        "address": "調布市布田1-41-1 菊谷ビル2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5444879,
+          35.6522074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ビッグエコー 調布北口店",
+        "address": "調布市布田1-47-1 エッセンビル2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5456659,
+          35.6517969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "さかなや道場 調布東口店",
+        "address": "調布市 布田1-44-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5452341,
+          35.6520088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "トヨタレンタリース東京 調布",
+        "address": "調布市布田2-39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5484079,
+          35.6514091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京トヨペット 調布店",
+        "address": "調布市国領町1-26-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5545944,
+          35.6526969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "シダックス 調布国領クラブ",
+        "address": "調布市国領町1-26-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5550915,
+          35.6526037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "モスバーガー 国領駅前店",
+        "address": "調布市国領町2-5-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.557968,
+          35.6506859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "はなの舞 国領店",
+        "address": "調布市 国領町3-1-38 ココスクエアビル 2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5588111,
+          35.6497597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京日産自動車販売 新車のひろば三鷹店",
+        "address": "\t\n東京日産自動車販売 新車のひろば三鷹店\t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5571188,
+          35.6814589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "トヨタ東京カローラ 調布店",
+        "address": "調布市八雲台2-9-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5598953,
+          35.6527502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "関東マツダ 国領店",
+        "address": "調布市国領町2-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5614099,
+          35.652742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "マインズ農業協同組合 マインズショップ 調布店",
+        "address": "調布市国領町7-30-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.559917,
+          35.644996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "デニーズ 調布",
+        "address": "調布市国領町4-51-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5621741,
+          35.6460608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "日産プリンス西東京販売 調布つつじヶ丘店",
+        "address": "調布市菊野台1-31-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5690915,
+          35.656778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "マインズ農業協同組合 マインズショップ 神代店",
+        "address": "調布市西つつじヶ丘3-8-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.569657,
+          35.6570503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "東京トヨタ自動車 調布店",
+        "address": "調布市西つつじヶ丘1-25-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5704531,
+          35.6582311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カラオケペキニーズ",
+        "address": "調布市西つつじヶ丘1-27-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5719676,
+          35.6587387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カラオケ本舗まねきねこ つつじヶ丘店",
+        "address": "調布市 西つつじヶ丘3-33-11 大祐商事ビル3F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5742022,
+          35.658215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三代目網元　魚鮮水産 つつじヶ丘店",
+        "address": "調布市 西つつじヶ丘3-37-2 横田ファイブビル1F･2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5750495,
+          35.6588397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カレーハウスCoCo壱番屋 調布つつじヶ丘店",
+        "address": "調布市西つつじヶ丘3-37-14 鹿嶋屋ビル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5751182,
+          35.6594845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ロイヤルホスト 仙川駅前店",
+        "address": "調布市仙川町1-44-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5862168,
+          35.6627998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "カレーハウスCoCo壱番屋 京王仙川駅前通店",
+        "address": "調布市仙川町1-15-38 鍋屋ビルⅡ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5857192,
+          35.659859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "モスバーガー 島忠仙川店",
+        "address": "調布市 若葉町2-1-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5867349,
+          35.6587433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三代目鳥メロ 国領駅前店",
+        "address": "調布市国領町2-5-15コクティー2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.558169,
+          35.6503876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三代目鳥メロ 仙川駅前店",
+        "address": "調布市仙川町3-9-7エテルノ上原地下1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5853167,
+          35.6626413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "やきとり道場 調布北口店",
+        "address": "調布市 布田1-40-10 アルソス調布駅前ビル2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5445062,
+          35.6524483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "トヨタ東京カローラ 烏山店",
+        "address": "調布市緑ヶ丘2-67-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5896781,
+          35.6665082
+        ]
+      }
+    }
+  ]
+}
